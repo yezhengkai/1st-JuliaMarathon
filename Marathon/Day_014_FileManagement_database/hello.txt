@@ -1,0 +1,2 @@
+Use "w"
+Learning Julia is fun!
